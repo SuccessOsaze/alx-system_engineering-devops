@@ -1,1 +1,1 @@
-This directory is for the shell permissions ALX task.
+This is the directory containing the correct answers to the "Shell,permissions" task.
